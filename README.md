@@ -57,7 +57,7 @@ CREATE TABLE IF NOT EXISTS employees (
 );
 
 
-### **Sample Output**
+### Sample Output
 
 --- Executing INSERT ---
 1 row(s) inserted successfully
