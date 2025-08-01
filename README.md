@@ -4,7 +4,7 @@ A simple Java application that demonstrates how to connect to a MySQL database u
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is intended for beginners to understand the basics of JDBC operations including:
 
@@ -14,18 +14,9 @@ This project is intended for beginners to understand the basics of JDBC operatio
 - Safe resource management using try-with-resources
 
 ---
-
-## 🗂️ File Structure
-
-JDBC-Employee-Manager/
-├── Main1.java # Java code that performs DB operations
-├── mec.sql # SQL script to create database and table
-└── README.md # Project documentation
-
-
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Connects to local MySQL using JDBC
 - ✅ Inserts employee data using `PreparedStatement`
@@ -35,7 +26,7 @@ JDBC-Employee-Manager/
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 To run this project, you need:
 
@@ -46,9 +37,9 @@ To run this project, you need:
 
 ---
 
-## 🧩 Setup Instructions
+##  Setup Instructions
 
-### 1. 🧱 Database Setup
+### 1.  Database Setup
 
 1. Open MySQL command line or MySQL Workbench.
 2. Run the following SQL script or use `mec.sql`:
@@ -66,7 +57,7 @@ CREATE TABLE IF NOT EXISTS employees (
 );
 
 
-💻 Sample Output
+### **Sample Output**
 
 --- Executing INSERT ---
 1 row(s) inserted successfully
